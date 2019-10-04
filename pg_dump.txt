@@ -1,4 +1,5 @@
 <pg_dump_versions>
 10.1
 10.3
+11.2
 </pg_dump_versions>
